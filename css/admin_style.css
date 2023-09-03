@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  text-decoration: none;
+  list-style: none;
+}
+
+/* Variables */
+
+:root {
+  --main-color: #da6285;
+  --pink-color: #ff8e9d;
+  --pink-opacity: #ffe6e9;
+  --white-alfa-40: rgba(255, 255, 255, 0.4);
+  --white-alfa-25: rgba(255, 255, 255, 0.25);
+  --backdrop-filter: blur (5px);
+  --padding: 5vh 15px;
+  --box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+body {
+  background-image: url("../image/body.jpg");
+}
