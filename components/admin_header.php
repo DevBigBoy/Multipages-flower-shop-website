@@ -64,7 +64,7 @@
             </li>
             <li>
                 <a href="view_products.php">
-                    <i class="bx bxs-food menu"></i>view Products
+                    <i class="bx bxs-food-menu"></i>view Products
                 </a>
             </li>
             <li>

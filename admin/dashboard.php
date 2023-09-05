@@ -1,9 +1,6 @@
 <?php include '../components/connect.php' ?>
 
 
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -22,11 +19,11 @@
     <?php include '../components/admin_header.php' ?>
 
 
-    <?php include '../components/admin_footer.php' ?>
     <!--========================= SWEETALERT =========================-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
     <!--========================= Custome Js  =========================-->
     <script src="../js/admin_script.js"></script>
+
     <!--========================= alert =========================-->
     <?php include '../components/alert.php' ?>
 </body>
